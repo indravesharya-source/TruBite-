@@ -1,0 +1,6 @@
+{
+  "name": "TruBite",
+  "description": "AI-powered health, nutrition, and grocery assistant that helps you make smarter food and care choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
